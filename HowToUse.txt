@@ -1,0 +1,6 @@
+============
+#How to Use:
+============
+
+1. chmod 777 *
+2. ./udp (after typing this you will find more detailed information)
